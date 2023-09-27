@@ -1,6 +1,6 @@
 ## Hi!
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+[MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 I'm sizhouLiu, a University Student in TYUT Software Engineering Academy.
 
