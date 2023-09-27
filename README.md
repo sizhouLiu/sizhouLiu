@@ -26,6 +26,7 @@ Interested in:
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40">
 </p>
 
+
 > "Dream chaser never give up."
 
 > "追梦人永不停息脚步。"
@@ -35,6 +36,6 @@ Interested in:
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickRen2023&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 
 </p>
-## 🤹‍♀️ 联系方式：
+## 联系方式：
 
 QQ:3094969938
