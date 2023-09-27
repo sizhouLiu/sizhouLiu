@@ -1,10 +1,13 @@
 ## Hi!
 
-[MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
 I'm sizhouLiu, a University Student in TYUT Software Engineering Academy.
 
 I aspire to be a fullstack developer and learn hard to do so.
+## 💪 技能树:
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
 Learning:
 
