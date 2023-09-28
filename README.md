@@ -3,6 +3,10 @@
 I'm sizhouLiu, a University Student in TYUT Software Engineering Academy.
 
 I aspire to be a fullstack developer and learn hard to do so.
+
+In addition to that, I am learning about data mining and deep learning..
+
+I hope that one day I will be able to make a work of my own and show it to everyone.
 ## 💪 technology stack:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -13,7 +17,8 @@ I aspire to be a fullstack developer and learn hard to do so.
 
 ## Development tools：
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 Learning:
 
 <p align="center">
@@ -29,9 +34,9 @@ Interested in:
 </p>
 
 
-> "Dream chaser never give up."
+> "Try not to become a man of success but rather try to become a man of value."
 
-> "追梦人永不停息脚步。"
+> "不要为成功而努力，要为做一个有价值的人而努力。"
 
 
 <p align="center">
@@ -44,3 +49,4 @@ Interested in:
 QQ:1214602074
 
 email: lsz8824523@163.com
+
