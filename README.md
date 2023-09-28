@@ -3,6 +3,7 @@
 I'm sizhouLiu, a University Student in TYUT Software Engineering Academy.
 
 I aspire to be a fullstack developer and learn hard to do so.
+ ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ## 💪 技能树:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -30,7 +31,6 @@ Interested in:
 
 > "追梦人永不停息脚步。"
 
- ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <p align="center">
 
