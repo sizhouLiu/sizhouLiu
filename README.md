@@ -9,6 +9,7 @@ I aspire to be a fullstack developer and learn hard to do so.
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 Learning:
 
@@ -28,6 +29,8 @@ Interested in:
 > "Dream chaser never give up."
 
 > "追梦人永不停息脚步。"
+
+ ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <p align="center">
 
