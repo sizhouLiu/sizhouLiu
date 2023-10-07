@@ -41,7 +41,7 @@ Interested in:
 
 <p align="center">
 
-<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickRen2023&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 
 </p>
 ## 联系方式：
