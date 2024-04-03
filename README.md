@@ -34,7 +34,7 @@ Interested in:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact"  width="100" height="100"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact"  width="300" height="300"/>
 </p>
 > "Try not to become a man of success but rather try to become a man of value."
 
