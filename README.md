@@ -33,9 +33,7 @@ Interested in:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="100"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact"  width="300" height="300"/>
-</p>
+
 > "Try not to become a man of success but rather try to become a man of value."
 
 > "不要为成功而努力，要为做一个有价值的人而努力。"
@@ -45,6 +43,9 @@ Interested in:
 
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact"  width="300" height="300"/>
 </p>
 ## 联系方式：
 
