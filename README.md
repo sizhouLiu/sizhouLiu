@@ -16,7 +16,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 
   - 工作岗位：Python开发实习生
   - 工作部门：技术开发 国际化部门
-  - 工作方向：Rag进行blog site的国际化翻译工作
+  - 工作方向：使用Rag进行blog site的国际化翻译工具构建
     </td>
     </tr>
   <div height="20"></div>
