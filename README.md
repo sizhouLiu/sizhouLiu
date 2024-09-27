@@ -7,6 +7,22 @@ I aspire to be a fullstack developer and learn hard to do so.
 In addition to that, I am learning about data mining and deep learning..
 
 I hope that one day I will be able to make a work of my own and show it to everyone.
+## 🏢 实习经历
+<tr>
+<td>
+<img align="right" width="100" height="100" src="https://www.strikingly.com/content/images/strikingly-logo.svg" />
+
+- [Strikingly](https://www.sxl.cn/about-us) &emsp; 📌 2024-5 —— 2024-9
+
+  - 工作岗位：Python开发实习生
+  - 工作部门：技术开发 国际化部门
+  - 工作方向：Rag进行blog site的国际化翻译工作
+    </td>
+    </tr>
+  <div height="20"></div>
+<tr>
+<td>
+    
 ## 💪 technology stack:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
