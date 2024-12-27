@@ -13,7 +13,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 <td>
 <img align="right" width="100" height="100" src="https://www.strikingly.com/content/images/strikingly-logo.svg" />
 
-- [图灵的猫](https://www.sxl.cn/about-us) &emsp; 📌 2024-5 —— 2024-9
+- [Strikingly](https://www.sxl.cn/about-us) &emsp; 📌 2024-5 —— 2024-9
 
   - 工作岗位：Python开发实习生
   - 工作部门：技术开发 国际化部门
