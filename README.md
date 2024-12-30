@@ -9,6 +9,18 @@ In addition to that, I am learning about data mining and deep learning..
 
 I hope that one day I will be able to make a work of my own and show it to everyone.
 ## 🏢 实习经历
+<img align="right" width="100" height="100" src="https://n.sinaimg.cn/sinakd10223/360/w180h180/20200716/36a4-iwpcxkr4181716.jpg" />
+
+- [图灵的猫](https://space.bilibili.com/371846699) &emsp; 📌 2024-12 —— 至今
+
+  - 工作岗位：算法工程实习生
+  - 工作部门：技术开发 
+  - 工作方向：获取数据构建Rag
+    </td>
+    </tr>
+  <div height="20"></div>
+<tr>
+<td>
 <tr>
 <td>
 <img align="right" width="100" height="100" src="https://www.strikingly.com/content/images/strikingly-logo.svg" />
@@ -25,18 +37,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 <td>
 <tr>
 <td>
-<img align="right" width="100" height="100" src="https://n.sinaimg.cn/sinakd10223/360/w180h180/20200716/36a4-iwpcxkr4181716.jpg" />
 
-- [图灵的猫](https://space.bilibili.com/371846699) &emsp; 📌 2024-12 —— 至今
-
-  - 工作岗位：算法工程实习生
-  - 工作部门：技术开发 
-  - 工作方向：获取数据构建Rag
-    </td>
-    </tr>
-  <div height="20"></div>
-<tr>
-<td>
     
 ## 💪 technology stack:
 
