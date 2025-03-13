@@ -11,7 +11,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 ## 🏢 实习经历
 <img align="right" width="100" height="100" src="https://n.sinaimg.cn/sinakd10223/360/w180h180/20200716/36a4-iwpcxkr4181716.jpg" />
 
-- [图灵的猫](https://www.turingscat.com/) &emsp; 📌 2024-12 —— 至今
+- [图灵的猫](https://www.turingscat.com/) &emsp; 📌 2024-11 —— 至今
 
   - 工作岗位：算法工程实习生
   - 工作部门：技术开发 
@@ -79,6 +79,7 @@ Interested in:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact"  width="300" height="300"/>
 </p>
+
 ## 联系方式：
 
 QQ:1214602074
