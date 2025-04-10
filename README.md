@@ -8,6 +8,9 @@ I aspire to be a fullstack developer and learn hard to do so.
 In addition to that, I am learning about data mining and deep learning..
 
 I hope that one day I will be able to make a work of my own and show it to everyone.
+
+
+## 🏢 实习经历
 <img align="right" width="100" height="100" src="https://pic3.zhimg.com/v2-b2ba950fb4fc1671649b9b13d667a75a_180x120.jpg" />
 
 - [太极图形](https://www.taichi-graphics.com/) &emsp; 📌 2025-04 —— 至今
@@ -22,8 +25,6 @@ I hope that one day I will be able to make a work of my own and show it to every
 <td>
 <tr>
 <td>
-
-## 🏢 实习经历
 <img align="right" width="100" height="100" src="https://n.sinaimg.cn/sinakd10223/360/w180h180/20200716/36a4-iwpcxkr4181716.jpg" />
 
 - [图灵的猫](https://www.turingscat.com/) &emsp; 📌 2024-11 —— 2025-03
