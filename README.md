@@ -70,11 +70,11 @@ I hope that one day I will be able to make a work of my own and show it to every
 
 
 Working with:
-
+<p align="center">
 <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="C" width="100" height="100">
-
+</p>
 Learning:
 
 <p align="center">
