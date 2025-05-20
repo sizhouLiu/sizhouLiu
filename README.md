@@ -17,7 +17,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 
   - 工作岗位：技术美术实习生
   - 工作部门：技术美术 
-  - 工作方向：获取数据并清洗构建高质量数据集
+  - 工作方向：获取数据并清洗构建高质量数据集，维护渲染管线，并管理3D数字资产
     </td>
     </tr>
   <div height="20"></div>
@@ -31,7 +31,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 
   - 工作岗位：算法工程实习生
   - 工作部门：技术开发 
-  - 工作方向：获取数据构建Rag
+  - 工作方向：获取数据并构建多模态Agent工具
     </td>
     </tr>
   <div height="20"></div>
