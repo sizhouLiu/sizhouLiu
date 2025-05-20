@@ -16,7 +16,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 - [太极图形](https://www.taichi-graphics.com/) - [MeshyAI LLC](https://www.meshy.ai/) &emsp; 📌 2025-04 —— 至今
 
   - 工作岗位：技术美术实习生
-  - 工作部门：技术美术 
+  - 工作部门：美术 - 技术美术 
   - 工作方向：获取数据并清洗构建高质量数据集，维护渲染管线，并管理3D数字资产
     </td>
     </tr>
@@ -30,7 +30,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 - [图灵的猫](https://www.turingscat.com/) &emsp; 📌 2024-11 —— 2025-03
 
   - 工作岗位：算法工程实习生
-  - 工作部门：技术开发 
+  - 工作部门：技术开发 - 算法工程
   - 工作方向：获取数据并构建多模态Agent工具
     </td>
     </tr>
@@ -44,7 +44,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 - [Strikingly](https://www.sxl.cn/about-us) &emsp; 📌 2024-5 —— 2024-9
 
   - 工作岗位：Python开发实习生
-  - 工作部门：技术开发 国际化部门
+  - 工作部门：技术开发 - 国际化部门
   - 工作方向：使用Rag进行blog site的国际化翻译工具构建
     </td>
     </tr>
