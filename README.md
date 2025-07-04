@@ -15,8 +15,8 @@ I hope that one day I will be able to make a work of my own and show it to every
 
 - [太极图形](https://www.taichi-graphics.com/) - [MeshyAI LLC](https://www.meshy.ai/) &emsp; 📌 2025-04 —— 至今
 
-  - 工作岗位：技术美术实习生
-  - 工作部门：美术 - 技术美术 
+  - 工作岗位：Engineering-Data-intern - Data
+  - 工作部门：Engineering-Data - Data-intern
   - 工作方向：获取数据并清洗构建高质量数据集，维护渲染管线，并管理3D数字资产
     </td>
     </tr>
