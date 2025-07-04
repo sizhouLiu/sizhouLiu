@@ -93,9 +93,7 @@ Interested in:
 </p>
 
 
-> "Try not to become a man of success but rather try to become a man of value."
-
-> "不要为成功而努力，要为做一个有价值的人而努力。"
+> make it work, make it right, make it fast. 《复杂度陷阱》
 
 
 <p align="center">
