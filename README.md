@@ -11,7 +11,9 @@ I hope that one day I will be able to make a work of my own and show it to every
 
 
 ## 🏢 实习经历
+<img align="right" width="150" height="150" src="https://meshycn.com/img/logo.png" />
 <img align="right" width="100" height="100" src="https://pic3.zhimg.com/v2-b2ba950fb4fc1671649b9b13d667a75a_180x120.jpg" />
+
 
 - [太极图形](https://www.taichi-graphics.com/) - [MeshyAI LLC](https://www.meshy.ai/) &emsp; 📌 2025-04 —— 至今
 
