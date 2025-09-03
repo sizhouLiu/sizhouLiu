@@ -104,9 +104,7 @@ Interested in:
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact"  width="300" height="300"/>
-</p>
+
 
 ## 联系方式：
 
