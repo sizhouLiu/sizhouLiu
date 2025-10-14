@@ -11,7 +11,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 
 
 ## 🏢 实习经历
-<img align="right" width="100" height="100" src="https://static.codefuture.top/jike-site/logo-text.png" />
+<img align="right" width="150" height="150" src="https://static.codefuture.top/jike-site/logo-text.png" />
 
 
 - [即刻](https://jike.ruguoapp.com/) 📌 2025-10 —— 至今
