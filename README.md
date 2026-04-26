@@ -11,7 +11,7 @@ I hope that one day I will be able to make a work of my own and show it to every
 
 
 ## 🏢 实习经历
-<img align="right" width="150" height="150" src="https://static.codefuture.top/jike-site/logo-text.png" />
+<img align="right" width="250" height="100" src="https://static.codefuture.top/jike-site/logo-text.png" />
 
 
 - [即刻](https://jike.ruguoapp.com/) 📌 2025-10 —— 至今
@@ -21,12 +21,15 @@ I hope that one day I will be able to make a work of my own and show it to every
   - 工作方向：构建Agent工具为KOL博主筛选赋能
     </td>
     </tr>
-  <div height="20"></div>
+  <div height="25"></div>
+  
 <tr>
 <td>
 <tr>
 <td>
-<img align="right" width="150" height="150" src="https://meshycn.com/img/logo.png" />
+
+  
+<img align="right"  src="meshy.svg" width="250" alt="描述">
 <img align="right" width="100" height="100" src="https://pic3.zhimg.com/v2-b2ba950fb4fc1671649b9b13d667a75a_180x120.jpg" />
 
 
