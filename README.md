@@ -14,7 +14,8 @@
 
 ## 🏢 实习经历
 
-### 🟢 即刻 (2025-10 —— 至今)
+
+### 即刻-小宇宙 (2025-10 —— 2026-4)
 <div align="left">
 <img align="right" width="200" src="https://static.codefuture.top/jike-site/logo-text.png" />
   
@@ -26,12 +27,13 @@
 
 <br clear="right"/>
 
----
 
-### 🟣 太极图形 / MeshyAI (2025-04 —— 2025-07)
+
+### 太极图形 / MeshyAI (2025-04 —— 2025-07)
 <div align="left">
 
 <div align="right">
+  <img align="right" width="200" src="meshy.svg" />
   <!-- <img src="meshy.svg" width="140"/><br/> -->
   <!-- <img src="https://pic3.zhimg.com/v2-b2ba950fb4fc1671649b9b13d667a75a_180x120.jpg" width="100" style="border-radius:10px;"/> -->
 </div>
@@ -48,9 +50,9 @@
 
 <br clear="right"/>
 
----
 
-### 🔵 图灵的猫 (2024-11 —— 2025-03)
+
+### 图灵的猫 (2024-11 —— 2025-03)
 <div align="left">
 <img align="right" width="90" src="https://n.sinaimg.cn/sinakd10223/360/w180h180/20200716/36a4-iwpcxkr4181716.jpg" style="border-radius:50%;" />
 
@@ -61,9 +63,9 @@
 
 <br clear="right"/>
 
----
 
-### 🟡 Strikingly / 上线了 (2024-05 —— 2024-09)
+
+### Strikingly / 上线了 (2024-05 —— 2024-09)
 <div align="left">
 <img align="right" width="140" src="https://www.strikingly.com/content/images/strikingly-logo.svg" />
 
@@ -129,7 +131,7 @@
 
 ---
 
-## ❤️ Interested In
+## Interested In
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70"/>
@@ -137,7 +139,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&show_icons=true&theme=tokyonight"/>
@@ -147,7 +149,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
 📧 lsz8824523@163.com <br/>
