@@ -14,6 +14,17 @@
 
 ## 🏢 实习经历
 
+### Vast / Tripo AI (2026-4 —— 至今)
+<div align="left">
+<img align="right" width="300" src="tripeai.svg" />
+  
+- **岗位**：数据工程开发实习生  
+- **部门**：技术与工程部门  
+- **方向**：3D 数据平台建设与维护  
+
+</div>
+
+<br clear="right"/>
 
 ### 即刻-小宇宙 (2025-10 —— 2026-4)
 <div align="left">
@@ -34,8 +45,6 @@
 
 <div align="right">
   <img align="right" width="200" src="meshy.svg" />
-  <!-- <img src="meshy.svg" width="140"/><br/> -->
-  <!-- <img src="https://pic3.zhimg.com/v2-b2ba950fb4fc1671649b9b13d667a75a_180x120.jpg" width="100" style="border-radius:10px;"/> -->
 </div>
 
 - **岗位**：Engineering Data Intern  
