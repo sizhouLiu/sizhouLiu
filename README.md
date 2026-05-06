@@ -30,7 +30,7 @@
 <div align="left">
 <img align="right" width="200" src="https://static.codefuture.top/jike-site/logo-text.png" />
   
-- **岗位**：Agent 开发实习生  
+- **岗位**：AI 全栈开发实习生  
 - **部门**：商务 - 快鸟团队  
 - **方向**：构建 Agent 工具，为 KOL 博主筛选赋能  
 
