@@ -9,6 +9,7 @@
   🚀 Aspiring Fullstack Developer <br/>
   🤖 Learning Data Mining & Deep Learning
 </p>
+
 ## 🏢 工作经历
 
 ### Vast / Tripo AI (2026-7 —— 至今)
@@ -26,6 +27,7 @@
 </div>
 
 <br clear="right"/>
+
 ---
 
 ## 🏢 实习经历
