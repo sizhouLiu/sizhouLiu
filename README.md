@@ -178,7 +178,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&show_icons=true&theme=tokyonight"/>
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact&theme=tokyonight"/>
   <br/>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=sizhouLiu&show_icons=true&theme=tokyonight"/>
 </p>
