@@ -1,13 +1,13 @@
-<h1 align="center">🚀 Hi, I'm sizhouLiu</h1>
+<h1 align="center"> Hi, I'm sizhouLiu</h1>
 
 <p align="center">
   <a href="https://sizhouliu.github.io">🌐 个人博客</a>
 </p>
 
 <p align="center">
-  💻 TYUT Software Engineering Student <br/>
-  🚀 Aspiring Fullstack Developer <br/>
-  🤖 Learning Data Mining & Deep Learning
+   TYUT Software Engineering Student <br/>
+   Aspiring Fullstack Developer <br/>
+   Learning Data Mining & Deep Learning
 </p>
 
 ## 🏢 工作经历
@@ -180,7 +180,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sizhouLiu&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizhouLiu&layout=compact&theme=tokyonight" width="350"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sizhouLiu&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
