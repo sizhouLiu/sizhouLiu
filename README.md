@@ -12,7 +12,7 @@
 
 ## 🏢 工作经历
 
-### Vast / Tripo AI (2026-7 —— 至今)
+### [Vast / Tripo AI](https://www.tripo3d.ai/) (2026-7 —— 至今)
 <div align="left">
 <img align="right" width="300" src="tripeai.svg" />
   
@@ -32,7 +32,7 @@
 
 ## 🏢 实习经历
 
-### Vast / Tripo AI (2026-4 —— 2026-7)
+### [Vast / Tripo AI](https://www.tripo3d.ai/) (2026-4 —— 2026-7)
 <div align="left">
 <img align="right" width="300" src="tripeai.svg" />
   
@@ -48,7 +48,7 @@
 
 <br clear="right"/>
 
-### 即刻-小宇宙 (2025-10 —— 2026-4)
+### [即刻-小宇宙](https://www.okjike.com/) (2025-10 —— 2026-4)
 <div align="left">
 <img align="right" width="200" src="https://static.codefuture.top/jike-site/logo-text.png" />
   
@@ -67,7 +67,7 @@
 
 
 
-### 太极图形 / MeshyAI (2025-04 —— 2025-07)
+### [太极图形 / MeshyAI](https://www.meshy.ai/) (2025-04 —— 2025-07)
 <div align="left">
 
 <div align="right">
