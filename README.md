@@ -101,7 +101,7 @@
 
 
 
-### Strikingly / 上线了 (2024-05 —— 2024-09)
+### [Strikingly](https://www.strikingly.com) / 上线了 (2024-05 —— 2024-09)
 <div align="left">
 <img align="right" width="140" src="https://www.strikingly.com/content/images/strikingly-logo.svg" />
 
