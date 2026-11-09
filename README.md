@@ -16,7 +16,7 @@
 <div align="left">
 <img align="right" width="300" src="tripeai.svg" />
   
-- **岗位**：算法数据infra工程师
+- **岗位**：Data infra工程师
 - **部门**：技术与工程-基础技术研发-算法数据
 - **方向**：
   - 3D 数据平台建设与维护
@@ -36,7 +36,7 @@
 <div align="left">
 <img align="right" width="300" src="tripeai.svg" />
   
-- **岗位**：算法数据infra工程师
+- **岗位**：Data infra工程师
 - **部门**：技术与工程-基础技术研发-算法数据
 - **方向**：
   - 3D 数据平台建设与维护
